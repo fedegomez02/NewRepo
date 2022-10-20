@@ -1,0 +1,13 @@
+C:\Users\Fede\OneDrive\Escritorio\repo boot\accenture\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Fede\OneDrive\Escritorio\repo boot\accenture\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Fede\OneDrive\Escritorio\repo boot\accenture\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Fede\OneDrive\Escritorio\repo boot\accenture\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Fede\OneDrive\Escritorio\repo boot\accenture\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fede\OneDrive\Escritorio\repo boot\accenture\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Fede\OneDrive\Escritorio\repo boot\accenture\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Fede\OneDrive\Escritorio\repo boot\accenture\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Fede\OneDrive\Escritorio\repo boot\accenture\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Fede\OneDrive\Escritorio\repo boot\accenture\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Fede\OneDrive\Escritorio\repo boot\accenture\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Fede\OneDrive\Escritorio\repo boot\accenture\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Casteos.resources
+C:\Users\Fede\OneDrive\Escritorio\repo boot\accenture\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormFcs.resources
