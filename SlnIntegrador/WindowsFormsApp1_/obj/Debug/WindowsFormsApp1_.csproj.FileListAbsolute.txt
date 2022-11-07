@@ -1,0 +1,16 @@
+C:\Users\Fede\source\repos\SlnIntegrador\WindowsFormsApp1_\bin\Debug\WindowsFormsApp1_.exe.config
+C:\Users\Fede\source\repos\SlnIntegrador\WindowsFormsApp1_\bin\Debug\WindowsFormsApp1_.exe
+C:\Users\Fede\source\repos\SlnIntegrador\WindowsFormsApp1_\bin\Debug\WindowsFormsApp1_.pdb
+C:\Users\Fede\source\repos\SlnIntegrador\WindowsFormsApp1_\bin\Debug\Entidades.dll
+C:\Users\Fede\source\repos\SlnIntegrador\WindowsFormsApp1_\bin\Debug\Negocio.dll
+C:\Users\Fede\source\repos\SlnIntegrador\WindowsFormsApp1_\bin\Debug\Entidades.pdb
+C:\Users\Fede\source\repos\SlnIntegrador\WindowsFormsApp1_\bin\Debug\Negocio.pdb
+C:\Users\Fede\source\repos\SlnIntegrador\WindowsFormsApp1_\obj\Debug\WindowsFormsApp1_.csproj.AssemblyReference.cache
+C:\Users\Fede\source\repos\SlnIntegrador\WindowsFormsApp1_\obj\Debug\WindowsFormsApp1_.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fede\source\repos\SlnIntegrador\WindowsFormsApp1_\obj\Debug\WindowsFormsApp1_.Form1.resources
+C:\Users\Fede\source\repos\SlnIntegrador\WindowsFormsApp1_\obj\Debug\WindowsFormsApp1_.Properties.Resources.resources
+C:\Users\Fede\source\repos\SlnIntegrador\WindowsFormsApp1_\obj\Debug\WindowsFormsApp1_.csproj.GenerateResource.cache
+C:\Users\Fede\source\repos\SlnIntegrador\WindowsFormsApp1_\obj\Debug\WindowsFormsApp1_.csproj.CoreCompileInputs.cache
+C:\Users\Fede\source\repos\SlnIntegrador\WindowsFormsApp1_\obj\Debug\WindowsFormsApp1_.csproj.CopyComplete
+C:\Users\Fede\source\repos\SlnIntegrador\WindowsFormsApp1_\obj\Debug\WindowsFormsApp1_.exe
+C:\Users\Fede\source\repos\SlnIntegrador\WindowsFormsApp1_\obj\Debug\WindowsFormsApp1_.pdb
