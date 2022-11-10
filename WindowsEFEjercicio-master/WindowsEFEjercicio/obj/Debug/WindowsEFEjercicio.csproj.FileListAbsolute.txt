@@ -1,0 +1,17 @@
+C:\Users\Fede\OneDrive\Escritorio\WindowsEFEjercicio-master\WindowsEFEjercicio\bin\Debug\WindowsEFEjercicio.exe.config
+C:\Users\Fede\OneDrive\Escritorio\WindowsEFEjercicio-master\WindowsEFEjercicio\bin\Debug\WindowsEFEjercicio.exe
+C:\Users\Fede\OneDrive\Escritorio\WindowsEFEjercicio-master\WindowsEFEjercicio\bin\Debug\WindowsEFEjercicio.pdb
+C:\Users\Fede\OneDrive\Escritorio\WindowsEFEjercicio-master\WindowsEFEjercicio\bin\Debug\EntityFramework.dll
+C:\Users\Fede\OneDrive\Escritorio\WindowsEFEjercicio-master\WindowsEFEjercicio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fede\OneDrive\Escritorio\WindowsEFEjercicio-master\WindowsEFEjercicio\bin\Debug\EntityFramework.xml
+C:\Users\Fede\OneDrive\Escritorio\WindowsEFEjercicio-master\WindowsEFEjercicio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fede\OneDrive\Escritorio\WindowsEFEjercicio-master\WindowsEFEjercicio\obj\Debug\WindowsEFEjercicio.csproj.AssemblyReference.cache
+C:\Users\Fede\OneDrive\Escritorio\WindowsEFEjercicio-master\WindowsEFEjercicio\obj\Debug\WindowsEFEjercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fede\OneDrive\Escritorio\WindowsEFEjercicio-master\WindowsEFEjercicio\obj\Debug\WindowsEFEjercicio.Form1.resources
+C:\Users\Fede\OneDrive\Escritorio\WindowsEFEjercicio-master\WindowsEFEjercicio\obj\Debug\WindowsEFEjercicio.Migrations.CrearBaseDatos.resources
+C:\Users\Fede\OneDrive\Escritorio\WindowsEFEjercicio-master\WindowsEFEjercicio\obj\Debug\WindowsEFEjercicio.Properties.Resources.resources
+C:\Users\Fede\OneDrive\Escritorio\WindowsEFEjercicio-master\WindowsEFEjercicio\obj\Debug\WindowsEFEjercicio.csproj.GenerateResource.cache
+C:\Users\Fede\OneDrive\Escritorio\WindowsEFEjercicio-master\WindowsEFEjercicio\obj\Debug\WindowsEFEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\Fede\OneDrive\Escritorio\WindowsEFEjercicio-master\WindowsEFEjercicio\obj\Debug\WindowsEFEjercicio.csproj.CopyComplete
+C:\Users\Fede\OneDrive\Escritorio\WindowsEFEjercicio-master\WindowsEFEjercicio\obj\Debug\WindowsEFEjercicio.exe
+C:\Users\Fede\OneDrive\Escritorio\WindowsEFEjercicio-master\WindowsEFEjercicio\obj\Debug\WindowsEFEjercicio.pdb
