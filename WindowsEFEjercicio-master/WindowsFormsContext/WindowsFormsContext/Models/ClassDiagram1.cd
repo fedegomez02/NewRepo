@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsContext.Models.Categories">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAACAAAgAAAAAAAAAAAAACAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Models\Categories.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsContext.Models.CustomerDemographics">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Models\CustomerDemographics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsContext.Models.Customers">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEIQAAAgAAAAAAIIAAgAAAAEAIAAAACAAACIAAAAAA=</HashCode>
+      <FileName>Models\Customers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsContext.Models.Employees">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMgSEAAoAAAAGRIIAAAAAQAACIAgYACAAAAAAAAAAg=</HashCode>
+      <FileName>Models\Employees.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsContext.Models.NorthWindContexr">
+    <Position X="1.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAEIAAAAgAQAAIAAAAAAAAAAGAAAkAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Models\NorthWindContexr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsContext.Models.Order_Details">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAEAABAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAgAAAAAQ=</HashCode>
+      <FileName>Models\Order_Details.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsContext.Models.Orders">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAMAABBAAAQAAAAAAAAAICABGAAEAgBAAAAEAAAAACA=</HashCode>
+      <FileName>Models\Orders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsContext.Models.Products">
+    <Position X="6.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cEAAAAACAAAAAIAAAAAAQAAAAAEAEAAAACAAAAgoAAA=</HashCode>
+      <FileName>Models\Products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsContext.Models.Region">
+    <Position X="1.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAABAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Region.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsContext.Models.Shippers">
+    <Position X="3" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAQAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Models\Shippers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsContext.Models.Suppliers">
+    <Position X="4.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAEgAAAAAAIIAAgAAAAAAIAAAACACACIAAAAAQ=</HashCode>
+      <FileName>Models\Suppliers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsContext.Models.Territories">
+    <Position X="6.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAgAAAQAAAAAAAAAQACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Territories.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
