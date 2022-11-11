@@ -1,0 +1,6 @@
+C:\Users\Fede\source\repos\LibreriaEmpleado\LibreriaEmpleado\bin\Debug\LibreriaEmpleado.dll
+C:\Users\Fede\source\repos\LibreriaEmpleado\LibreriaEmpleado\bin\Debug\LibreriaEmpleado.pdb
+C:\Users\Fede\source\repos\LibreriaEmpleado\LibreriaEmpleado\obj\Debug\LibreriaEmpleado.csproj.AssemblyReference.cache
+C:\Users\Fede\source\repos\LibreriaEmpleado\LibreriaEmpleado\obj\Debug\LibreriaEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\Fede\source\repos\LibreriaEmpleado\LibreriaEmpleado\obj\Debug\LibreriaEmpleado.dll
+C:\Users\Fede\source\repos\LibreriaEmpleado\LibreriaEmpleado\obj\Debug\LibreriaEmpleado.pdb
